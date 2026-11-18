@@ -58,4 +58,4 @@ G40,high,yes,excellent,yes
 ### OUTPUT:
 <img width="1088" height="1045" alt="image" src="https://github.com/user-attachments/assets/7760b5e3-1bae-41a6-8981-fb2f4f60e680" />
 
-### RESULT: 
+### RESULT: Hence , Generating Association Rules for Employee dataset using Apriori Algorithm has been done successfully
